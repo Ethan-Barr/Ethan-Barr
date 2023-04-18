@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 How is it going?</h1>
 
 ###
 
-<p align="left">My name is Ethan and I'm a Student</p>
+<p align="left">My name is Ethan,  I'm a Student studying Computer Science and Level 2 Engineering for GCSE's.</p>
 
 ###
 
