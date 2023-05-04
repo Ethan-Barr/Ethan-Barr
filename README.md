@@ -4,6 +4,7 @@
 
 <p align="left">My name is Ethan, I'm a Student studying Computer Science and Level 2 Engineering for GCSE's.</p>
 <p align="left">I am currently working on a couple CarterAPI projects (Discord bot example and a Chrome extension) and I'm also working on a simple localhost React Password Manager</p>
+
 ###
 
 <h2 align="left">About me</h2>
