@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">My name is Ethan, I'm a Student studying Computer Science and Level 2 Engineering for GCSE's.</p>
-<p align="left">I am currently working on a couple CarterAPI projects (Discord bot example and a Chrome extension) and I'm also working on a simple localhost React Password Manager</p>
+<p align="left">I'm Ethan, I'm currently studying Computer Science and Level 2 Engineering for GCSE's.</p>
+<p align="left">I've been working on a few projects recently. Mainly Eureka and Jasper!</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning JavaScript<br>🎯 Goals: To create AI based projects<br>🎲 Fun fact: I love Aviation</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning JavaScript<br>🎯 Goals: To create AI based projects<br>🎲 Fun fact: I love Aviation<br>🎉 I own my own 3d printer: Ender 3 V2 Neo</p>
 
 ###
 
