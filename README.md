@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm Ethan, I'm currently studying Computer Science and Level 2 Engineering for GCSE's.</p>
-<p align="left">I've been working on a few projects recently. Mainly Eureka and Jasper!</p>
+<p align="left">I'm Ethan, I'm currently studying Maths and Physics for A-levels. As well as Level 3 CamTech Engineering</p>
+<p align="left">I've been working on a few projects recently; Jasper and Eureka-AI</p>
 
 ###
 
