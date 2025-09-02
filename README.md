@@ -1,41 +1,54 @@
-<h1 align="left">Hey 👋 How is it going?</h1>
+# 👋 Hi, I’m Ethan!
 
-###
+🚀 Aspiring Software Engineer & Maker  
+📚 A-level Student (Maths, Physics & Level 3 CamTech Engineering)  
+🎯 Passionate about Innovation, Prodblem solving and 3D printing  
 
-<p align="left">I'm Ethan, I'm currently studying Maths and Physics for A-levels. As well as Level 3 CamTech Engineering</p>
-<p align="left">I've been working on a few projects recently; Jasper and Eureka-AI</p>
+## 🛠 Projects
 
-###
+Here are some of the things I’ve been working on recently:  
 
-<h2 align="left">About me</h2>
+- [**PrintNest**](https://github.com/Ethan-Barr/PrintNest) → Manage multiple 3D printers with Python & FastAPI  
+- [**Jasper**](https://github.com/Ethan-Barr/Jasper) → A personal ecosystem assistant across devices  
+- [**ScreenDock**](https://github.com/Ethan-Barr/ScreenDock) → Minimalistic dock/screensaver app built with React Native, displaying time, date, and weather in a clean, distraction-free interface.
 
-###
+👉 Check out my [pinned repositories](https://github.com/Ethan-Barr?tab=repositories) for more projects.  
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning JavaScript<br>🎯 Goals: To create AI based projects<br>🎲 Fun fact: I love Aviation<br>🎉 I own my own 3d printer: Ender 3 V2 Neo</p>
+## 💻 Tech Stack
 
-###
+**Languages:**  
+Python · JavaScript · TypeScript · HTML · CSS  
 
-<h2 align="left">I code with</h2>
+**Frameworks & Tools:**  
+React · FastAPI · TailwindCSS · Git · Node.js  
 
-###
+**Currently Learning:**  
+React Native · Advanced JavaScript  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">My stats</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Barr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan-Barr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Barr&show_icons=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ethan-Barr&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
 
-###
+---
+
+## ✨ About Me
+
+- 🛠 Creating bugs since 2018  
+- 📚 Currently learning JavaScript & React Native  
+- 🎯 Goal: Build useful and innovative software projects 
+- 🎉 Fun fact: I love aviation and own an Ender 3 V2 Neo 3D printer  
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/ethan-barr-aba6142b1/)  
+- [Instagram](https://instagram.com/barret0200)  
+- [GitHub](https://github.com/Ethan-Barr)  
+
+---
+
+⭐️ *“Code is like aviation — every project is a flight, every bug a turbulence, and every success a safe landing.”*  
