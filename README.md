@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer & Maker  
 📚 A-level Student (Maths, Physics & Level 3 CamTech Engineering)  
-🎯 Passionate about Innovation, Prodblem solving and 3D printing  
+🎯 Passionate about Innovation, Problem solving and 3D printing  
 
 ## 🛠 Projects
 
