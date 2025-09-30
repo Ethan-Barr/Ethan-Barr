@@ -25,8 +25,8 @@
   *A cross-platform display manager for single-board computers and maker projects.*
 - [PiPrintHub](https://github.com/Ethan-Barr/PiPrintHub)  
   *A lightweight, Raspberry Pi-based 3D print server — the foundation for PrintNest.*
-- Jasper
-  *A personal AI system that works within my own ecosystem
+- Jasper  
+  *A personal AI system that works within my own ecosystem*
 
 ---
 
