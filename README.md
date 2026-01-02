@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Software Engineer & Maker**  
 📚 A-level Student (Maths, Physics & Level 3 CamTech Engineering)  
-💻 Junior Technical Developer & Applications Engineer @ [MACH Machine Tools](https://www.machmt.co.uk/)  
+💻 Junior Software Developer & Applications Engineer @ [MACH Machine Tools](https://www.machmt.co.uk/)  
 🎯 Director @ [Eureka Technologies Limited](https://github.com/Eureka-Technologies-Limtied)
 
 ---
