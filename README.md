@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript
-- **Frameworks:** ReactJS (Learning React Native & Expo)
+- **Frameworks:** ReactJS, Electron, Tauri
 - **Interests:** Electronics, 3D Printing, 3D Modeling
 
 ---
