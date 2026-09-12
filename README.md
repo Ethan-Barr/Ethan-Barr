@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Ethan Barr
 
 🚀 **Aspiring Software Engineer & Maker**  
-📚 A-level Student (Maths, Physics & Level 3 CamTech Engineering)  
 💻 Junior Software Developer & Applications Engineer @ [MACH Machine Tools](https://www.machmt.co.uk/)  
 🎯 Chief Technology Officer @ [Eureka Technologies Limited](https://github.com/Eureka-Technologies-Limited/)
 
